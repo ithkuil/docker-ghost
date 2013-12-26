@@ -3,7 +3,7 @@ docker-ghost
 
 Run [Ghost](http://ghost.org) with Docker:
 
-    $ docker run -d -p 2368:2368 -e GHOST_URL=http://my-ghost-blog.com orchardup/ghost
+    $ docker run -d -p 2368:2368 -e GHOST_URL=http://my-ghost-blog.com runvnc/ghost
 
 Your Ghost blog will be running on [http://127.0.0.1:2368](http://127.0.0.1:2368).
 
